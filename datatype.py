@@ -1,0 +1,6 @@
+int_var=int(input("Enter any integer value:"))
+float_var=float(input("Enter any float value:"))
+str_var=(input("Enter any string:"))
+print("Value is:",int_var,"Type is:",type(int_var))
+print("Value is:",float_var,"Type is:",type(float_var))
+print("Value is:",str_var,"Type is:",type(str_var))
